@@ -6,3 +6,7 @@ The Sales Dataset was added in Parts, each having 1,00,000 entries, as it contai
 <H2>Top Ordered Category</H2>
 The Visual representation shows that the East was the Best Region for Sales and Profit, while the West sold the lowest products.
 <img width="1275" height="776" alt="Top Ordered Category" src="https://github.com/user-attachments/assets/6d05fb29-a691-4f82-b1a1-20144c0f0f8d" />
+<br>
+<H2>Top Ordered Product</H2>
+The Visual representation shows the comparison between the Top 10 products overall and the Top 10 Products in the East.
+<img width="1808" height="431" alt="Top 10 Ordered Product" src="https://github.com/user-attachments/assets/a56b9ff5-37d8-4492-bf3d-7a5032cd40d9" />
