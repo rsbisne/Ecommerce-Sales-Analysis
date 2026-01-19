@@ -1,4 +1,7 @@
 # Ecommerce-Sales-Analysis
+The Ecommerce Sales Analysis Project help me learn and apply Data Analytics skills such MS-Excel, SQL, Power BI, and Python.<br>
+The Project include tasks like Data Cleaning, Sorting, Filtering, Power Query, Pivot Tables, DAX, Group By, Aggregates, Conditional Queries, Dashboard Creation, and Project Summary. Also, Python Word Cloud for better Presentation and understanding at the Project End.
+<br>
 <H2>Sales Dataset added</H2>
 The Sales Dataset was added in Parts, each having 1,00,000 entries, as it contains 5,00,000 Entries and a Demo Visualization using Excel.
 <img width="1197" height="767" alt="Screenshot" src="https://github.com/user-attachments/assets/7df756c8-3b7b-4ba1-a8c6-e42d0582c5ac" />
@@ -14,3 +17,7 @@ The Visual representation shows the comparison between the Top 10 products overa
 <H2>Top & Least Profitable Products</H2>
 The Visual representation shows the top 10 profitable Products on one side and the least profitable 10 Products on the other.
 <img width="1652" height="419" alt="Top and Least Profitable Products" src="https://github.com/user-attachments/assets/b05971b8-a368-4e32-88c7-4dcaa21fa7c0" />
+<br>
+<H2>Power BI Dashboard</H2>
+Here, Attaching the screenshot of Power BI Dashboard representing the Ecommerce Sales Report
+<img width="1442" height="802" alt="Power BI Interactive Dashboard" src="https://github.com/user-attachments/assets/c7c3d6bf-6633-4f48-9022-0d6c5fc80e27" />
