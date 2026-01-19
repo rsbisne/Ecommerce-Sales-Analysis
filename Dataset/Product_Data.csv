@@ -1,0 +1,401 @@
+Product_ID,Product_Name,Product,Category_ID,Unit_Cost,Unit_Price
+1,Smartphone,Electronics,1,2446.49,2813.73
+2,Laptop,Electronics,1,3420.07,4590
+3,Tablet,Electronics,1,2164.25,2689.93
+4,Desktop Computer,Electronics,1,2169.5,3544.28
+5,Smartwatch,Electronics,1,572.92,1009.08
+6,Bluetooth Speaker,Electronics,1,81.7,101
+7,Wireless Earbuds,Electronics,1,4087.49,5444.98
+8,Noise Cancelling Headphones,Electronics,1,1499.72,1803.78
+9,Power Bank,Electronics,1,3540.07,4578.51
+10,External Hard Drive,Electronics,1,4867.84,7143.07
+11,USB Flash Drive,Electronics,1,899.03,1035.14
+12,Smart TV,Electronics,1,2260.52,3645.96
+13,LED Monitor,Electronics,1,1990.99,2733.21
+14,Printer,Electronics,1,148.33,196.52
+15,Scanner,Electronics,1,3588.48,5904.26
+16,Projector,Electronics,1,3309.04,4350.53
+17,Digital Camera,Electronics,1,2627.75,3730.67
+18,Drone Camera,Electronics,1,1205.06,1713.23
+19,Smart Bulb,Electronics,1,2731.76,4056.39
+20,Wi-Fi Router,Electronics,1,1343.29,2106.97
+21,Wi-Fi Extender,Electronics,1,2106.45,3229.41
+22,Mouse,Electronics,1,2691.6,3606.86
+23,Keyboard,Electronics,1,2228.4,2750.35
+24,Webcam,Electronics,1,1378.53,2034.83
+25,Portable SSD,Electronics,1,519.9,726.52
+26,MicroSD Card,Electronics,1,3167.15,4968.96
+27,Smart Doorbell,Electronics,1,669.94,940.86
+28,Smart Plug,Electronics,1,1912.5,3370.38
+29,Smart Home Hub,Electronics,1,1746.56,2393.75
+30,Air Purifier,Electronics,1,2907.32,4586.33
+31,Vacuum Cleaner,Electronics,1,4553.02,7956.57
+32,Washing Machine,Electronics,1,1674.26,2926.57
+33,Refrigerator,Electronics,1,1727.96,2156.47
+34,Microwave Oven,Electronics,1,2429.43,2775.28
+35,Air Conditioner,Electronics,1,2944.11,4186.83
+36,Induction Cooktop,Electronics,1,1612.77,2497.25
+37,Water Purifier,Electronics,1,460.94,598.98
+38,Geyser,Electronics,1,1979,3063.21
+39,Ceiling Fan,Electronics,1,1121.77,1360.47
+40,Mixer Grinder,Electronics,1,2422.29,3186.53
+41,Food Processor,Electronics,1,4203.25,5944.47
+42,Iron,Electronics,1,1495.21,2094.08
+43,Electric Kettle,Electronics,1,1114.89,1673.9
+44,Hair Dryer,Electronics,1,4024.2,6359.19
+45,Trimmer,Electronics,1,219.78,294.72
+46,Steam Iron,Electronics,1,1322.62,2339.61
+47,Juicer,Electronics,1,1373.15,2173.75
+48,Room Heater,Electronics,1,677.3,1052.23
+49,Air Cooler,Electronics,1,4098.54,6190.67
+50,Digital Thermometer,Electronics,1,4332.64,5562.19
+51,Office Chair,Furniture,2,216.88,321.46
+52,Study Table,Furniture,2,4919.15,6795.22
+53,Sofa Set,Furniture,2,889.22,1041.87
+54,Dining Table,Furniture,2,228.23,354.85
+55,Bookshelf,Furniture,2,4200.29,6299.87
+56,Bed Frame,Furniture,2,529.95,861.74
+57,Wardrobe,Furniture,2,651.27,961.1
+58,Coffee Table,Furniture,2,2845.98,4645.61
+59,Shoe Rack,Furniture,2,2253.01,3452.14
+60,TV Unit,Furniture,2,503.18,626.89
+61,Side Table,Furniture,2,3118.76,3591.45
+62,Dressing Table,Furniture,2,4972.57,7632.7
+63,Recliner Chair,Furniture,2,431.31,744.29
+64,Rocking Chair,Furniture,2,2259.19,2543.56
+65,Bar Stool,Furniture,2,463.51,510.91
+66,Chest of Drawers,Furniture,2,3367.91,4667.13
+67,Workstation Desk,Furniture,2,2147.99,3740.69
+68,Folding Chair,Furniture,2,3457.31,4960.76
+69,Corner Sofa,Furniture,2,4975.98,7854.84
+70,Bedside Table,Furniture,2,753.53,834.92
+71,Computer Table,Furniture,2,1019.59,1408.65
+72,Book Cabinet,Furniture,2,2619.42,4703.79
+73,Dining Bench,Furniture,2,2159.98,2852.9
+74,Lounge Chair,Furniture,2,4118.75,6498.18
+75,Storage Ottoman,Furniture,2,914.42,1539.67
+76,Wall Shelf,Furniture,2,4360.32,7609.04
+77,Cupboard,Furniture,2,3464.09,3887.23
+78,Study Bench,Furniture,2,2780.41,4920.52
+79,Wooden Cabinet,Furniture,2,3960.83,5970.28
+80,Kids Study Table,Furniture,2,1816.45,2080.74
+81,Dining Chair,Furniture,2,952.74,1589.83
+82,Vanity Table,Furniture,2,2651.67,4175.08
+83,Office Desk,Furniture,2,1905.58,3419.92
+84,Floor Lamp Table,Furniture,2,1681.2,2911.6
+85,Shoe Cabinet,Furniture,2,3460.41,5275.5
+86,Storage Trunk,Furniture,2,1220.18,1480.24
+87,Modular Shelf,Furniture,2,1437.45,1649.36
+88,Wooden Stool,Furniture,2,3736.09,6295.44
+89,TV Cabinet,Furniture,2,849.64,1023.43
+90,Sideboard,Furniture,2,3945.23,5603.75
+91,File Cabinet,Furniture,2,3906.23,5003.16
+92,Office Partition,Furniture,2,4854.85,6483.98
+93,Bedside Lamp Table,Furniture,2,2902.21,4968.72
+94,Console Table,Furniture,2,2649.79,4276.05
+95,Storage Rack,Furniture,2,1786.78,2901.75
+96,Work Table,Furniture,2,1723.64,2819.75
+97,Bunk Bed,Furniture,2,2172.62,3535.57
+98,Single Bed,Furniture,2,1276.07,1513
+99,Dining Hutch,Furniture,2,1051.47,1711.03
+100,Bean Bag,Furniture,2,4321.21,5827.76
+101,T-Shirt,Clothing,3,657.5,969.65
+102,Jeans,Clothing,3,4010.57,6668.08
+103,Formal Shirt,Clothing,3,4281.83,5457.37
+104,Casual Shirt,Clothing,3,1189.86,1723.15
+105,Trousers,Clothing,3,471.02,826.02
+106,Shorts,Clothing,3,4102.55,6883.4
+107,Jacket,Clothing,3,310.78,394.66
+108,Sweater,Clothing,3,1529.29,2646.99
+109,Hoodie,Clothing,3,3817.34,6290.97
+110,Tracksuit,Clothing,3,1982.49,2814.37
+111,Blazer,Clothing,3,4020.46,7035.58
+112,Suit,Clothing,3,1015.81,1533.08
+113,Kurta,Clothing,3,1831.32,2040.24
+114,Sherwani,Clothing,3,1899.37,2348.85
+115,Saree,Clothing,3,4226.53,4793.66
+116,Dupatta,Clothing,3,4198.92,6243.38
+117,Skirt,Clothing,3,232.13,286
+118,Dress,Clothing,3,1897.09,3142.42
+119,Blouse,Clothing,3,2720.79,3872.94
+120,Top,Clothing,3,2563.24,3066.9
+121,Leggings,Clothing,3,989.46,1147.6
+122,Palazzo,Clothing,3,1383.56,1596.22
+123,Denim Jacket,Clothing,3,2617.21,4381.09
+124,Cargo Pants,Clothing,3,4912.44,8773.88
+125,Track Pants,Clothing,3,4894.36,8494.97
+126,Polo Shirt,Clothing,3,3475.84,4682.27
+127,Chinos,Clothing,3,415.73,646.97
+128,Hoodie Jacket,Clothing,3,4012.69,6388.88
+129,Ethnic Gown,Clothing,3,174.25,273.03
+130,Anarkali Dress,Clothing,3,4627.29,7689.88
+131,Kurta Set,Clothing,3,1627.27,2539.26
+132,Formal Pants,Clothing,3,1337.84,2030.6
+133,Windcheater,Clothing,3,3951.9,5494.35
+134,Crop Top,Clothing,3,1050.24,1830.39
+135,Waistcoat,Clothing,3,1921.2,2293.37
+136,Overcoat,Clothing,3,3091.23,5401.6
+137,Raincoat,Clothing,3,1668.46,2890.39
+138,Nightwear Set,Clothing,3,3274.34,4837.84
+139,Bathrobe,Clothing,3,3580.63,5091.32
+140,Socks,Clothing,3,1125.49,1674.28
+141,Tie,Clothing,3,4252.17,4826.79
+142,Belt,Clothing,3,1653.83,2903.51
+143,Scarf,Clothing,3,2239.93,3819.15
+144,Gloves,Clothing,3,1015.01,1418.84
+145,Cap,Clothing,3,358.34,637.93
+146,Shorts,Clothing,3,2887.33,3179.42
+147,Camisole,Clothing,3,1362.27,2261.6
+148,Tank Top,Clothing,3,3933.11,6299.87
+149,Joggers,Clothing,3,3727.71,5210.18
+150,Pajamas,Clothing,3,1237.89,1523.16
+151,Wheat Flour,Grocery,4,2393.86,3692.49
+152,Rice,Grocery,4,3164.2,3773.66
+153,Sugar,Grocery,4,3402.95,4734.87
+154,Salt,Grocery,4,1658.35,2090.91
+155,Tea Powder,Grocery,4,286.86,318.02
+156,Coffee Powder,Grocery,4,4961.21,6056.49
+157,Cooking Oil,Grocery,4,2635.35,3097.68
+158,Mustard Oil,Grocery,4,3138.32,3477.11
+159,Lentils,Grocery,4,741.67,1033.18
+160,Pulses,Grocery,4,2775.77,4362.39
+161,Chickpeas,Grocery,4,572.38,669.32
+162,Kidney Beans,Grocery,4,3817.65,4509.9
+163,Green Gram,Grocery,4,1634.34,2387.44
+164,Black Gram,Grocery,4,937.18,1420.87
+165,Spices,Grocery,4,2993.34,5176.58
+166,Turmeric Powder,Grocery,4,2255.35,2982.92
+167,Red Chili Powder,Grocery,4,1195.63,1633.71
+168,Coriander Powder,Grocery,4,1543.1,2447.96
+169,Garam Masala,Grocery,4,2950.5,3429.97
+170,Cumin Seeds,Grocery,4,2861.38,4387.47
+171,Fenugreek Seeds,Grocery,4,3190.18,5503.76
+172,Mustard Seeds,Grocery,4,1906.06,2535.2
+173,Baking Powder,Grocery,4,4656.97,6932.72
+174,Baking Soda,Grocery,4,3878.54,5942.11
+175,Biscuits,Grocery,4,4619.81,8200.1
+176,Noodles,Grocery,4,1445.52,1737.76
+177,Pasta,Grocery,4,4396.98,5883.52
+178,Bread,Grocery,4,4115.47,6624.62
+179,Butter,Grocery,4,2151.95,3837.88
+180,Cheese,Grocery,4,1337.86,1646.27
+181,Paneer,Grocery,4,158.03,279.05
+182,Milk,Grocery,4,1848.21,2780.7
+183,Curd,Grocery,4,1186.49,1739.16
+184,Eggs,Grocery,4,2218.86,3498.95
+185,Honey,Grocery,4,306.18,545.45
+186,Jam,Grocery,4,1671.68,1926.41
+187,Corn Flakes,Grocery,4,1832.63,3061.49
+188,Oats,Grocery,4,1640.01,2681.31
+189,Pickle,Grocery,4,386.05,664.59
+190,Sauces,Grocery,4,310.87,547.59
+191,Vinegar,Grocery,4,2648.36,4401.03
+192,Soy Sauce,Grocery,4,1660.59,2646.73
+193,Tomato Ketchup,Grocery,4,201.79,276.35
+194,Juice,Grocery,4,3531.88,5630.89
+195,Chocolate,Grocery,4,815.14,1086.82
+196,Chips,Grocery,4,482.05,571.84
+197,Dry Fruits,Grocery,4,432.72,666.13
+198,Fresh Vegetables,Grocery,4,3540.04,4461.39
+199,Fresh Fruits,Grocery,4,1210.1,1887.14
+200,Instant Soup,Grocery,4,615.37,1086.92
+201,Wristwatch,Accessories,5,204.17,248.56
+202,Sunglasses,Accessories,5,1443.04,2421.61
+203,Handbag,Accessories,5,366.38,589.41
+204,Wallet,Accessories,5,4655.32,5390.09
+205,Backpack,Accessories,5,254.88,349.77
+206,Belt,Accessories,5,4125.13,6271.45
+207,Cap,Accessories,5,398.59,591.7
+208,Hat,Accessories,5,2051,2256.89
+209,Scarf,Accessories,5,3829.17,5578.53
+210,Gloves,Accessories,5,1754.2,2935.93
+211,Earrings,Accessories,5,1758.02,2368.23
+212,Necklace,Accessories,5,2125.12,2880.39
+213,Bracelet,Accessories,5,2339.71,3661.33
+214,Ring,Accessories,5,226.07,288.61
+215,Brooch,Accessories,5,2865.12,4311.01
+216,Hair Band,Accessories,5,3588.01,5108.87
+217,Hair Clip,Accessories,5,4249.16,4857.81
+218,Keychain,Accessories,5,3804,6417.79
+219,Travel Pouch,Accessories,5,2820.59,3774.22
+220,Cosmetic Bag,Accessories,5,3571.44,4925.32
+221,Phone Case,Accessories,5,4708.01,5584.15
+222,Laptop Bag,Accessories,5,834.12,1164.96
+223,Duffel Bag,Accessories,5,4359.63,5267.96
+224,Umbrella,Accessories,5,70,94.44
+225,Tie,Accessories,5,3747.84,4892.47
+226,Cufflinks,Accessories,5,697.33,1230.15
+227,Waist Bag,Accessories,5,1202.92,1447.58
+228,Fanny Pack,Accessories,5,3941.53,4633.44
+229,Card Holder,Accessories,5,1406.66,1722.64
+230,Beanie,Accessories,5,2208.93,2637.33
+231,Muffler,Accessories,5,4462.73,6485.73
+232,Pendant,Accessories,5,1496.41,2003.01
+233,Anklet,Accessories,5,4755.99,8250.76
+234,Chain,Accessories,5,1954.87,2377.36
+235,Ear Studs,Accessories,5,470.76,812.98
+236,Tote Bag,Accessories,5,4362.28,5689.57
+237,Sling Bag,Accessories,5,3801.24,4917.28
+238,Backpack Organizer,Accessories,5,4246.43,6517.65
+239,ID Card Holder,Accessories,5,4109.44,6647.09
+240,Wristband,Accessories,5,2164.71,3633.52
+241,Belt Buckle,Accessories,5,3036.02,4856.7
+242,Watch Strap,Accessories,5,2541.77,4478.53
+243,Hair Brush,Accessories,5,4454.94,5953.62
+244,Compact Mirror,Accessories,5,1109.82,1441.33
+245,Sunglass Case,Accessories,5,2669.65,4581.32
+246,Jewelry Box,Accessories,5,981.12,1123.62
+247,Handkerchief,Accessories,5,3152.78,3827.41
+248,Luggage Tag,Accessories,5,3452.41,4828.58
+249,Cosmetic Mirror,Accessories,5,1417.36,2152.73
+250,Perfume Bottle,Accessories,5,1422.81,2187.62
+251,Football,Sports,6,4777.92,6921.03
+252,Cricket Bat,Sports,6,3723.85,5136.63
+253,Cricket Ball,Sports,6,4866.77,7585.67
+254,Badminton Racket,Sports,6,4601.28,5459.99
+255,Tennis Racket,Sports,6,1265.75,2153.62
+256,Table Tennis Bat,Sports,6,4301.19,6669.45
+257,Shuttlecock,Sports,6,4316.61,4840.41
+258,Volleyball,Sports,6,4185.98,4754.27
+259,Basketball,Sports,6,391.66,595.18
+260,Hockey Stick,Sports,6,3131.29,5386.29
+261,Baseball Bat,Sports,6,3658.87,4559.56
+262,Golf Club,Sports,6,2137.4,3576.64
+263,Skipping Rope,Sports,6,4588.79,5412.2
+264,Yoga Mat,Sports,6,1847.9,2182.3
+265,Dumbbells,Sports,6,3753.63,4291.48
+266,Resistance Band,Sports,6,1628.14,2803
+267,Kettlebell,Sports,6,562.1,816.29
+268,Boxing Gloves,Sports,6,1636.04,2210.41
+269,Punching Bag,Sports,6,3590.3,5687.5
+270,Gym Ball,Sports,6,2818.78,4122.83
+271,Fitness Tracker,Sports,6,4027.88,7226.37
+272,Stopwatch,Sports,6,4200.27,5905.84
+273,Sports Shoes,Sports,6,4556.47,5349.87
+274,Running Shorts,Sports,6,652.44,963.97
+275,Training Jersey,Sports,6,3699.24,5234.03
+276,Sports Cap,Sports,6,2701.29,3820.14
+277,Knee Guard,Sports,6,2171.66,2408.54
+278,Elbow Guard,Sports,6,3656.95,5752.49
+279,Shin Guard,Sports,6,1962.95,2205.28
+280,Arm Band,Sports,6,1987.27,3169.48
+281,Water Bottle,Sports,6,715.55,1149.09
+282,Cricket Pads,Sports,6,568.76,638.46
+283,Helmet,Sports,6,1405.01,1974.63
+284,Mouth Guard,Sports,6,4440.28,6817.47
+285,Sports Bag,Sports,6,3889.52,5571.19
+286,Sweatband,Sports,6,4652.5,5585.64
+287,Jump Rope,Sports,6,2588.44,3105.58
+288,Treadmill,Sports,6,998.88,1195.96
+289,Exercise Cycle,Sports,6,4926.9,6571.84
+290,Skating Shoes,Sports,6,4595.68,6962.04
+291,Skateboard,Sports,6,3845.36,4779.55
+292,Surfboard,Sports,6,3025.56,4429.58
+293,Badminton Net,Sports,6,1033.88,1719.85
+294,Cricket Stumps,Sports,6,663.81,1059.44
+295,Table Tennis Net,Sports,6,1107.55,1512.68
+296,Golf Ball,Sports,6,1115.21,1881.4
+297,Dumbbell Rack,Sports,6,1698.93,1876.74
+298,Tennis Ball,Sports,6,693.45,901.08
+299,Sports Towel,Sports,6,1831.46,2235.64
+300,Swimming Goggles,Sports,6,4336.72,6263.7
+301,Novel,Books,7,3593.44,4602.96
+302,Biography,Books,7,1789.11,2527.47
+303,Autobiography,Books,7,1781.84,2882.78
+304,Science Fiction Book,Books,7,4422.3,6619.16
+305,Mystery Novel,Books,7,4637.02,5756.02
+306,Thriller Book,Books,7,2902.77,3693.5
+307,Romance Novel,Books,7,4505.6,5568.48
+308,Poetry Collection,Books,7,1753.02,2167.08
+309,Comic Book,Books,7,2371.55,3078.78
+310,Short Story Book,Books,7,320.02,496.44
+311,Self-Help Book,Books,7,2356.45,2966.66
+312,Cookery Book,Books,7,3237.48,5738.7
+313,Travel Guide,Books,7,694.99,925.7
+314,History Book,Books,7,3428.65,4681.46
+315,Geography Book,Books,7,1658.72,2353.6
+316,Economics Textbook,Books,7,1718.55,3081.85
+317,Political Science Book,Books,7,1067.87,1602.64
+318,Philosophy Book,Books,7,4237.19,7294.4
+319,Psychology Book,Books,7,4266.03,6932.95
+320,Children’s Storybook,Books,7,2532,4517.3
+321,Educational Workbook,Books,7,2609.9,2960.91
+322,Grammar Book,Books,7,2579.32,3116.13
+323,Math Textbook,Books,7,3192.11,5328.21
+324,Physics Textbook,Books,7,4956.55,6075.85
+325,Chemistry Textbook,Books,7,399.35,641.64
+326,Biology Textbook,Books,7,1618.41,2336.22
+327,Computer Science Book,Books,7,344.91,497.45
+328,Art Book,Books,7,1793.66,2226.8
+329,Music Theory Book,Books,7,4650.84,7245.11
+330,Photography Guide,Books,7,3842.72,6411.45
+331,Gardening Book,Books,7,3737.6,5145.08
+332,Health & Fitness Guide,Books,7,2262.01,3433.49
+333,Meditation Book,Books,7,1585.49,2351.03
+334,Religion Book,Books,7,3488.71,5771.87
+335,Motivational Book,Books,7,4119.12,5750.94
+336,Entrepreneurship Book,Books,7,2451.72,4318.84
+337,Marketing Book,Books,7,1824.71,3108.19
+338,Finance Book,Books,7,2561.86,3159.2
+339,Leadership Book,Books,7,1091.54,1878.7
+340,Innovation Guide,Books,7,1090.35,1203.85
+341,Startup Manual,Books,7,516.98,761.88
+342,Management Textbook,Books,7,4361.12,5016.35
+343,Sociology Book,Books,7,4813.39,6298.52
+344,Cultural Studies Book,Books,7,4274.3,6816.64
+345,Literary Classic,Books,7,2101.77,3480.69
+346,Encyclopedia,Books,7,3989.72,6542.28
+347,Dictionary,Books,7,1406.71,2048.59
+348,Puzzle Book,Books,7,133.95,211.48
+349,Language Learning Book,Books,7,929.35,1489.35
+350,Academic Journal,Books,7,2378.2,3013.61
+351,Building Blocks,Toys,8,2649.75,3833.88
+352,Lego Set,Toys,8,2162.69,3259.19
+353,Puzzle Cube,Toys,8,1708.57,2372.03
+354,Board Game,Toys,8,776.27,1066.17
+355,Remote Control Car,Toys,8,1366.76,1510.9
+356,Toy Train,Toys,8,1703.68,2583.23
+357,Doll,Toys,8,2496.92,4344.2
+358,Teddy Bear,Toys,8,2530.43,2958.42
+359,Action Figure,Toys,8,2983.77,5023.55
+360,Toy Robot,Toys,8,514.71,652.4
+361,Toy Kitchen Set,Toys,8,942.68,1329.26
+362,Doctor Play Set,Toys,8,4573.96,5643.94
+363,Art & Craft Kit,Toys,8,774.01,1343.48
+364,Coloring Set,Toys,8,3773.76,4414.46
+365,Play Dough Set,Toys,8,4101.91,6789.54
+366,Toy Gun,Toys,8,4300.15,6896.35
+367,Water Gun,Toys,8,222.52,288.89
+368,Toy Plane,Toys,8,3654.84,6555.19
+369,Toy Boat,Toys,8,2671.11,3782.98
+370,Toy Truck,Toys,8,4498.17,7551.25
+371,Race Track Set,Toys,8,4985.26,5985.34
+372,Marble Run,Toys,8,1252.01,1419.95
+373,Domino Set,Toys,8,3372.42,5674.45
+374,Jigsaw Puzzle,Toys,8,3425.51,4160.82
+375,Musical Toy,Toys,8,1475.14,2283.54
+376,Alphabet Blocks,Toys,8,4691.28,5880.05
+377,Number Puzzle,Toys,8,3261.62,4378.72
+378,Flash Cards,Toys,8,3285.4,5153.45
+379,Toy Drum,Toys,8,1422.31,1958.92
+380,Toy Guitar,Toys,8,2869.36,4452.55
+381,Toy Keyboard,Toys,8,506.63,678.28
+382,Toy Microphone,Toys,8,1826.12,2865.52
+383,Toy Camera,Toys,8,4704.3,7852.56
+384,Toy Binoculars,Toys,8,4828.57,6569.06
+385,Toy Telescope,Toys,8,3449.62,6171.03
+386,Stuffed Animal,Toys,8,2301.19,3057.09
+387,Toy Pet,Toys,8,1838.17,2563.77
+388,Doll House,Toys,8,2042.24,2534.75
+389,Toy Soldiers,Toys,8,2339.16,2859.17
+390,Kite,Toys,8,4765.35,8211.42
+391,Yo-Yo,Toys,8,1299.34,1928.01
+392,Spinning Top,Toys,8,4843.1,6858.14
+393,Slime Kit,Toys,8,1629.15,2552.98
+394,Magic Set,Toys,8,1372.27,2119.76
+395,Chess Board,Toys,8,3168.05,4641.81
+396,Ludo Board,Toys,8,1880.58,2655.15
+397,Snake and Ladder Board,Toys,8,2658.51,3196.79
+398,Rubiks Cube,Toys,8,3315.45,5233.56
+399,Toy Kitchen Utensils,Toys,8,3466.52,3857.02
+400,Toy Building Crane,Toys,8,4610.61,6665.07
